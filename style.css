@@ -18,10 +18,11 @@ list-style: none;
     text-decoration: none;
 }
 .button{
-   background-color:greenyellow;
+   background-color:aqua;
  font-size: medium;
    border-radius: 5px;
-   border: none;
+   border: 8px;
+   padding: 10px;
    text-align: center;
 }
 nav li, button :hover{
@@ -66,4 +67,7 @@ nav li, button :hover{
 }
 .cointainer{
     
+}
+.last{
+    text-align: center;
 }

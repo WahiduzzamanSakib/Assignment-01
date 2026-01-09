@@ -34,5 +34,7 @@ border-radius: 30px;
     display: flex;
     justify-content: space-between; 
     gap: 60px;
+    border: 120px;
  }
+ 
  
