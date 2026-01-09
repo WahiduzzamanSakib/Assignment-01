@@ -11,10 +11,10 @@ justify-content: space-between;
  border:2px;
  padding: 3px;
 }
-.card-1 img{ 
+ .card-1 img{ 
     margin: 30px;
     border: 25px;
-    padding: 8px;
+    padding: 6px;
 background-color: red;
 border-radius: 30px;
 }

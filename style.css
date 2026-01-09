@@ -49,6 +49,7 @@ nav li, button :hover{
 }
 .content{
     background-image: url(./assets/hero-bg.png);
+    background-size: cover;
     width: 1100px;
     height: 1050 px ;
     text-align: center;
