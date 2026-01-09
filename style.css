@@ -27,12 +27,14 @@ list-style: none;
 nav li, button :hover{
     background-color: tomato;
 }
-.open {
- margin: 2px;
- padding: 8px;
- border: 4px;
- border-radius:10px ;
+.icon-home{
+ margin:10px;
+ border: 10px;
+ border-radius: 10px;
+ padding: 4px;
+ text-align: center;
 }
+
 .button a{
     text-decoration: none;
 }
@@ -44,17 +46,24 @@ nav li, button :hover{
     border-radius: 2px;
 }
 .see{
-    border: 4px;
-    padding: 10px;
-    font-style:5px ;
+    border: 3px;
+    padding: 6px;
+    font-style:4px ;
     border-radius: 1px;
+    text-decoration: none ;
 }
 .content{
     background-image: url(./assets/hero-bg.png);
     width: 1100px;
-    height: 900 px ;
+    height: 1050 px ;
     text-align: center;
     border:50px;
     padding: 120px;
     font-style: bold;
+}
+#pad{
+    text-align: center;
+}
+.cointainer{
+    
 }

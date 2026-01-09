@@ -1,0 +1,38 @@
+.card-container{
+display: flex;
+justify-content: space-between;
+ gap: 50px;
+}
+
+.card-1{
+    width: 280px;
+    height: 150px;
+ margin: 3px;
+ border:2px;
+ padding: 3px;
+}
+.card-1 img{ 
+    margin: 30px;
+    border: 25px;
+    padding: 8px;
+background-color: red;
+border-radius: 30px;
+}
+ .know img{
+    margin: 90px;
+    border: 60px;
+    height: 400px;
+    width: 400px;
+    background-color: red;
+ }
+ .know-1{
+    margin: 80px 150px 30px 60px;
+    border: 20px;
+    padding: 40px;
+ }
+ .banner{
+    display: flex;
+    justify-content: space-between; 
+    gap: 60px;
+ }
+ 
