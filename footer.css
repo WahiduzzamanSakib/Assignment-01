@@ -1,0 +1,22 @@
+.footer{
+    background-color: rgb(17, 17, 63);
+    border: 20px;
+    padding: 10px 30px 0;
+   margin: 0px 25px 0px;;
+
+}
+.finish{
+    display: flex;
+    justify-content: space-between;
+padding: 20px;
+border: 60px;
+margin: 50px;
+
+ } 
+  .rights{
+    text-align: center;
+    color: white;
+    padding: 10px;
+    border: 10px;
+    margin: 30px 30px 5px;
+  }

@@ -18,7 +18,8 @@ list-style: none;
     text-decoration: none;
 }
 .button{
-   background-color:aqua;
+   background-color: rgb(95, 240, 95);
+   color: blue;
  font-size: medium;
    border-radius: 5px;
    border: 8px;
@@ -39,13 +40,6 @@ nav li, button :hover{
 .button a{
     text-decoration: none;
 }
-.note{
-    border: 3px;
-    padding: 3px;
-    font-style: 3px;
-    background-color: greenyellow;
-    border-radius: 2px;
-}
 .see{
     border: 3px;
     padding: 6px;
@@ -64,9 +58,6 @@ nav li, button :hover{
 }
 #pad{
     text-align: center;
-}
-.cointainer{
-    
 }
 .last{
     text-align: center;
