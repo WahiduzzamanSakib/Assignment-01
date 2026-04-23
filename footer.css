@@ -18,8 +18,11 @@
 
 .rights {
   text-align: center;
-  color: white;
+  color: rgb(145, 141, 141);
   padding: 10px;
   border: 10px;
   margin: 30px 30px 5px;
+}
+.rights:hover{
+  color: white;
 }

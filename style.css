@@ -65,6 +65,13 @@ button :hover {
     height: 40px;
 }
 
+.cheekpoint {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
 .content {
     background-image: url(./assets/hero-bg.png);
     background-size: cover;
